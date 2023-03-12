@@ -12,7 +12,7 @@ aca aprendi a:
 El curso estuvo bueno, pero un poco desactualizado.
 
 
-####documento creado el 11 de marzo del 2023
+##documento creado el 11 de marzo del 2023
 
 
 >gracias por tu visita
